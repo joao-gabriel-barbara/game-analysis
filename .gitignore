@@ -1,0 +1,29 @@
+# 🔹 Dados (NÃO subir)
+data/
+*.csv
+
+# 🔹 Conda environments
+env/
+envs/
+.conda/
+
+# 🔹 Ambiente virtual
+.env/
+
+# 🔹 Jupyter
+.ipynb_checkpoints/
+
+# 🔹 Python
+__pycache__/
+*.pyc
+
+# 🔹 IDE
+.vscode/
+.idea/
+
+# 🔹 Sistema
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
