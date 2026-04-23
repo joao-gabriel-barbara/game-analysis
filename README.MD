@@ -24,6 +24,7 @@ Uma publisher de games precisa decidir em qual gênero e plataforma investir. Pa
 - Pandas
 - Matplotlib
 - Seaborn
+- Streamlit
 
 ---
 
@@ -113,4 +114,4 @@ jupyter notebook notebooks/analysis.ipynb
 streamlit run app.py
 ```
 
-Acesse em `http://localhost:8501`
+Caso queira acessar sem baixar nada: https://game-analysis-joao.streamlit.app/
