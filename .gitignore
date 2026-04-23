@@ -1,5 +1,4 @@
-# 🔹 Dados (NÃO subir)
-data/
+# 🔹 Dados
 *.csv
 
 # 🔹 Conda environments
